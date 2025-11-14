@@ -10,3 +10,4 @@ $string['pluginname'] = 'Dynamic Time Block';
 $string['labeltime'] = 'The current time is:';
 $string['loadingtime'] = 'Loading time...';
 $string['dynamic_time:addinstance'] = 'Add a new dynamic time block';
+$string['dynamic_time:myaddinstance'] = 'Add a new dynamic time block to the Moodle dashboard';
