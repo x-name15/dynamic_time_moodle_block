@@ -11,3 +11,4 @@ $string['pluginname'] = 'Bloc horaire dynamique';
 $string['labeltime'] = 'L\'heure actuelle est :';
 $string['loadingtime'] = 'Chargement de l\'heure...';
 $string['dynamic_time:addinstance'] = 'Ajouter un nouveau bloc horaire dynamique';
+$string['dynamic_time:myaddinstance'] = 'Ajouter un nouveau bloc horaire dynamique au tableau de bord Moodle';
